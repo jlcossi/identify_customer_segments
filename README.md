@@ -60,18 +60,18 @@ We recommend to install [Anaconda](https://www.continuum.io/downloads), a pre-pa
 
 ### Code
 
-The code is provided in the `image_classifier.ipynb` notebook file. The code included in `visuals.py` is meant to provide the visualizations created in the notebook.
+The code is provided in the `Identify_Customer_Segments.ipynb` notebook file. 
 
 ### Run
 
-In a terminal or command window, navigate to the top-level project directory `classify_images_with_PyTorch/` (that contains this README) and run one of the following commands:
+In a terminal or command window, navigate to the top-level project directory `identify_customer_segments/` (that contains this README) and run one of the following commands:
 
 ```bash
-ipython notebook image_classifier.ipynb
+ipython notebook Identify_Customer_Segments.ipynb
 ```  
 or
 ```bash
-jupyter notebook image_classifier.ipynb
+jupyter notebook Identify_Customer_Segments.ipynb
 ```
 
 This will open the iPython Notebook software and project file in your browser.
